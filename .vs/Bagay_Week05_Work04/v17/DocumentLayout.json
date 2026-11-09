@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15B604-D956-4EB3-91DC-65B9B73C56B7}|Bagay_Week05_Work04\\Bagay_Week05_Work04.csproj|c:\\users\\rainier\\downloads\\bagay_week05_work04\\bagay_week05_work04\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D15B604-D956-4EB3-91DC-65B9B73C56B7}|Bagay_Week05_Work04\\Bagay_Week05_Work04.csproj|solutionrelative:bagay_week05_work04\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15B604-D956-4EB3-91DC-65B9B73C56B7}|Bagay_Week05_Work04\\Bagay_Week05_Work04.csproj|c:\\users\\rainier\\downloads\\bagay_week05_work04\\bagay_week05_work04\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D15B604-D956-4EB3-91DC-65B9B73C56B7}|Bagay_Week05_Work04\\Bagay_Week05_Work04.csproj|solutionrelative:bagay_week05_work04\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D15B604-D956-4EB3-91DC-65B9B73C56B7}|Bagay_Week05_Work04\\Bagay_Week05_Work04.csproj|c:\\users\\rainier\\downloads\\bagay_week05_work04\\bagay_week05_work04\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D15B604-D956-4EB3-91DC-65B9B73C56B7}|Bagay_Week05_Work04\\Bagay_Week05_Work04.csproj|solutionrelative:bagay_week05_work04\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\Bagay_Week05_Work04\\Product.cs",
+              "RelativeDocumentMoniker": "Bagay_Week05_Work04\\Product.cs",
+              "ToolTip": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\Bagay_Week05_Work04\\Product.cs",
+              "RelativeToolTip": "Bagay_Week05_Work04\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:44:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\Bagay_Week05_Work04\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Bagay_Week05_Work04\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\Bagay_Week05_Work04\\ProductForm.cs [Design]",
+              "RelativeToolTip": "Bagay_Week05_Work04\\ProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:09:24.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\Bagay_Week05_Work04\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Bagay_Week05_Work04\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\rainier\\Downloads\\Bagay_Week05_Work04\\Bagay_Week05_Work04\\ProductForm.cs",
+              "RelativeToolTip": "Bagay_Week05_Work04\\ProductForm.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAgwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T10:19:33.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
